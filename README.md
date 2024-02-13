@@ -11,6 +11,6 @@ The process is :
 
 
 
-![Approach](Figures/data_p.png)
-![Approach](Figures/data_p.png)
-![Approach](Figures/data_p.png)
+![Approach](Capture d'écran 2024-02-13 201610.png)
+![Approach](Capture d'écran 2024-02-13 201626.png)
+![Approach](Capture d'écran 2024-02-13 200744.png)
