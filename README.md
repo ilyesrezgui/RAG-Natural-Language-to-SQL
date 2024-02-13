@@ -1,4 +1,5 @@
-#RAG : NL to SQL. 
+# RAG : NL to SQL. 
+
 This project utilizes OpenAI's LLM and Langchain for Retrival Augmented Generation.
 The process is : 
 * Start with an Excel File containing the data you want to query
